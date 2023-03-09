@@ -1,3 +1,10 @@
 ﻿body {
     background-image: url("https://img1.etsystatic.com/019/0/8505748/il_570xN.497569269_k118.jpg");
 }
+.name {
+    font-size: 100px;
+    font-weight: bold;
+    color: white;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+}

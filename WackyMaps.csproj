@@ -21,4 +21,8 @@
     <Content Remove="Pages\Privacy.cshtml" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\css\about.css" />
+  </ItemGroup>
+
 </Project>

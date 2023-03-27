@@ -1,9 +1,10 @@
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace WackyMaps.Pages.Shared
 {
-    public class LabModel : PageModel { 
-    
+    public class GymModel : PageModel
+    {
         public void OnGet()
         {
         }

@@ -7,3 +7,16 @@ p {
 body {
     background-color: rgba(255, 182, 193, 0.2);
 }
+td {
+    padding: 5px;
+}
+tr {
+    text-align: center;
+}
+table {
+    display: flex;
+    align-content: center;
+}
+.place {
+    color: rgba(255, 182, 193, 0.0);
+}

@@ -22,6 +22,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Remove="Pages\Shared\diagrams.html" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Include="wwwroot\css\about.css" />
   </ItemGroup>
 

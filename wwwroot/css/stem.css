@@ -7,3 +7,16 @@ p {
 body {
     background-color: rgba(255, 182, 193, 0.2);
 }
+.circle {
+    color: rgba(255, 182, 193, 0.0);
+}
+table {
+    display: flex;
+    align-content: center;
+}
+td {
+    padding: 5px;
+}
+h3 {
+    text-align: center;
+}

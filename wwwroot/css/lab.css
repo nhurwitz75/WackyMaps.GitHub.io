@@ -10,13 +10,18 @@ body {
 td {
     padding: 5px;
 }
-table {
-    display: flex;
-    align-content: center;
+.center {
+    text-align: center;
 }
 .place {
     color: rgba(255, 182, 193, 0.0);
 }
 h3 {
-    text-align: center;
+    margin: 0 auto;
+}
+table {
+    margin: 0 auto;
+}
+.header {
+    font-size: 25px;
 }

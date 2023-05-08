@@ -11,12 +11,18 @@ body {
     color: rgba(255, 182, 193, 0.0);
 }
 h3 {
-    text-align: center;
+    margin: 0 auto;
 }
-table {
-    display: flex;
-    align-content: center;
+.tab {
+    text-align: center;
 }
 td {
     padding: 5px;
+}
+table {
+    margin: 0 auto;
+}
+.header {
+    font-size: 25px;
+    text-align: center;
 }

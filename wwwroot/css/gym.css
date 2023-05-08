@@ -10,15 +10,15 @@ body {
 td {
     padding: 5px;
 }
-
-table {
-    display: flex;
-    align-content: center;
+.grid {
+   text-align: center;
 }
-
 .holder {
     color: rgba(255, 182, 193, 0.0);
 }
 h3 {
     text-align: center;
+}
+.header {
+    font-size: 25px;
 }
